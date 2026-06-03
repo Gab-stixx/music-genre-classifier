@@ -50,7 +50,7 @@ streamlit run app.py
 
 ## Author
 
-Your Name
+Gabriel Komolafe
 
 ## License
 
